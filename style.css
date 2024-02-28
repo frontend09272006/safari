@@ -1,0 +1,238 @@
+.tel{
+    width: 215px;
+    height: 44px;
+    border-radius: 22px;
+    background-color: #886239;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.body-img{
+    min-width: 100%;
+    background-image: url(img/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    min-height: 940px;
+}
+.navbar-links{
+    width: 100%;
+    min-height: 10px;
+    display: flex;
+    margin-top: 10px;
+}
+.chiziq{
+    width: 100%;
+    height: 1px;
+    background-color: #fff;
+
+}
+.links{
+    gap: 120px;
+}
+.sarlavha{
+    font-size: 80px;
+}
+.paragraf{
+    margin-top: 170px;
+    font-size: 20px;
+}
+.card-img-ustun{
+    margin-top: 100px;
+    gap: 31px;
+}
+.card-img-ustun2{
+    margin-top: 32px;
+    gap: 31px;
+}
+.quti{
+    margin-top: 100px;
+}
+.row2{
+    width: 100%;
+    min-height: 650px;
+    /* background-image: url(img/panorama-2105955_1920\ 1.jpg); */
+    background-color: #886239;
+}
+.ellipse-p{
+    margin-top: 20px;
+}
+.radius{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+}
+.row3{
+    margin-top: 90px;
+}
+.quti2{
+    margin-top: 100px;
+}
+.row4{
+    gap: 32px;
+    display: flex;
+}
+.col2{
+    background-image: url(img/Rectangle\ 25.png);
+    width: 256px;
+    height: 256px;
+}
+.col2-1{
+    background-image: url(img/Rectangle\ 44.png);
+    width: 256px;
+    height: 256px;
+}
+.col2-2{
+    background-image: url(img/Rectangle\ 63.png);
+    width: 256px;
+    height: 256px;
+}
+.col2-3{
+    background-image: url(img/Rectangle\ 64.png);
+    width: 256px;
+    height: 256px;
+}
+.col2-ustun{
+    gap: 32px;
+}
+.col2-ustun2{
+    margin-top: 32px;
+    gap: 32px;
+}
+.col5{
+    background-image: url(img/Rectangle\ 34.png);
+    min-width: 544px;
+}
+.col5-p{
+    margin-top: 300px;
+}
+.col2-h4{
+    padding: 25px;
+}
+.col2-p{
+    margin-top: 100px;
+    padding: 25px;
+}
+.col5-2{
+    background-image: url(img/Rectangle\ 69.png);
+    min-width:544px;
+}
+.col2-1-1{
+    background-image: url(img/Rectangle\ 65.png);
+    min-width: 256px;
+    min-height: 256px;
+}
+.col2-1-2{
+    background-image: url(img/Rectangle\ 67.png);
+    min-width: 256px;
+    min-height: 256px;
+}
+.col2-2-3{
+    background-image: url(img/Rectangle\ 66.png);
+    min-width: 256px;
+    min-height: 256px;
+}
+.col2-3-4{
+    background-image: url(img/Rectangle\ 68.png);
+    min-width: 256px;
+    min-height: 256px;
+}
+
+.chiziq2{
+    margin-top: 82px;
+    width: 1116px;
+    height: 1px;
+    background-color: #D9D9DE;
+}
+.karta{
+    margin-top: 100px;
+}
+.harita{
+    margin-top: 46px;
+}
+.p-razmer{
+    margin-top: 25px;
+    margin-bottom: 34px;
+}
+.top-px{
+    margin-top: 100px;
+}
+.text-Читать{
+    color: #C4C4C4;
+}
+.row5{
+    width: 1100px;
+}
+.col-7-img{
+    background-image: url(img/mashina-sayohat.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 640px;
+    height: 400px;
+}
+.quti4{
+    min-width: 1000px;
+    min-height: 785px;
+    background-color: #886239;
+}
+.img-3{
+    gap: 32px;
+
+}
+.img-4{
+    margin-top: 32px;
+    gap: 32px;  
+}
+.raqam{
+    font-size: 58px;
+    color: #886239;
+}
+.col-12-ustun{
+    background-color: #EAEAEA;
+    width: 100%;
+    height: 700px;
+
+}
+.col12-color{
+    background-color: #EAEAEA;
+    height: 552px;
+    margin-top: 100px;
+}
+.input-razmer{
+    width: 256px;
+    height: 44px;
+}
+.input-ustun{
+    gap: 32px;
+}
+.input-ustun2{
+    width: 832px;
+    height: 112px;
+    margin-top: 42px;
+}
+.button-style{
+    width: 297px;
+    height: 60px;
+    background-color: #886239;
+    border-radius: 30px;
+}
+.button-ustun{
+    margin-top: 67px;
+    gap: 137px;
+}
+.checkbox{
+    width: 26px;
+    height: 26px;
+}
+.footer{
+    height: 351px;
+    width: 100%;
+    background-color: #1F1E1E;
+}
+.logo{
+    margin-top: 80px
+}
+.footer-p{
+    margin-top: 77px;
+}
